@@ -7,7 +7,7 @@
 
 Ваші зауваження та зворотний зв’язок допоможуть зробити цю документацію ще кращою й кориснішою для всіх.
 
-<h1><a href="https://larasich.in.ua/" target="_blank">Перейти до Larasich</a></h1>
+<h1 style="text-alignh:center;"><a href="https://larasich.in.ua/" target="_blank"  style="text-alignh:center;">>>> Перейти до Larasich.in.ua <<<</a></h1>
 
 <p align="center">
   <a href="https://larasich.in.ua/">

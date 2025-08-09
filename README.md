@@ -8,3 +8,9 @@
 Ваші зауваження та зворотний зв’язок допоможуть зробити цю документацію ще кращою й кориснішою для всіх.
 
 <h1><a href="https://larasich.in.ua/" target="_blank">Перейти до Larasich</a></h1>
+
+<p align="center">
+  <a href="https://larasich.in.ua/">
+    <img src="./assets/larasich-logo.svg" alt="Larasich" height="48">
+  </a>
+</p>

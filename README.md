@@ -11,6 +11,6 @@
 
 <p align="center">
   <a href="https://larasich.in.ua/">
-    <img src="larasich_logo.jpg" alt="Larasich" height="48">
+    <img src="larasich_logo.jpg" alt="Larasich">
   </a>
 </p>
